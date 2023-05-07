@@ -90,7 +90,7 @@ class MyHomePage extends StatelessWidget {
 
 ```
 
-## Part 2
+## [Part 2](https://github.com/YamamotoDesu/riverpod_news_app/commit/3510a4801346fa2663865bee0118d48a6b69be5d)
 
 <img width="300" alt="スクリーンショット 2023-05-07 12 11 33" src="https://user-images.githubusercontent.com/47273077/236655618-cb9038af-52d9-4343-92b5-298d563a2d1e.png">
 
