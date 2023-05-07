@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=zuJav1VQ8jY&list=WL&index=8
 https://github.com/maroafenogho/riverpod_news_app
 
 ## Part 1
-<img width="100" alt="スクリーンショット 2023-05-07 9 59 07" src="https://user-images.githubusercontent.com/47273077/236652447-2047de06-14bd-4a18-bf9a-70785ef774f7.png">
+<img width="300" alt="スクリーンショット 2023-05-07 9 59 07" src="https://user-images.githubusercontent.com/47273077/236652447-2047de06-14bd-4a18-bf9a-70785ef774f7.png">
 
 lib/counter_controller.dart
 ```dart
