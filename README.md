@@ -89,3 +89,8 @@ class MyHomePage extends StatelessWidget {
 
 
 ```
+
+## Part 2
+
+<img width="300" alt="スクリーンショット 2023-05-07 12 11 33" src="https://user-images.githubusercontent.com/47273077/236655618-cb9038af-52d9-4343-92b5-298d563a2d1e.png">
+
